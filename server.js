@@ -8,7 +8,7 @@ app.use(static('public'));
 
 app.use(function *(){
     this.response.status = 404;
-    this.body = 'File not found! Please go to chibichai.com and start again';
+    this.body = 'File not found! Please go to chibichow.com and start again';
 });
 
 
