@@ -2,8 +2,9 @@
   "name": "chibichow",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
+    "start": "node --harmony server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -14,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nathaliesicard/chibichow/issues"
   },
-  "homepage": "https://github.com/nathaliesicard/chibichow"
+  "homepage": "https://github.com/nathaliesicard/chibichow",
+  "dependencies": {
+    "koa": "^0.18.1"
+  }
 }
