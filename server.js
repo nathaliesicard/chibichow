@@ -12,7 +12,7 @@ app.use(function *(){
 });
 
 
-var port = 4000;
+var port = procces.env.PORT || 4000;
 
 app.listen(port, function() {
     console.log('Listening on port ' + port + ', go to http://localhost:' + port + '/ ');
