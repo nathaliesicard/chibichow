@@ -1,0 +1,18 @@
+{
+  "name": "chibichow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nathaliesicard/chibichow.git"
+  },
+  "author": "Nathalie Sicard",
+  "bugs": {
+    "url": "https://github.com/nathaliesicard/chibichow/issues"
+  },
+  "homepage": "https://github.com/nathaliesicard/chibichow"
+}
