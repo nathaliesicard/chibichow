@@ -9,6 +9,11 @@ body {
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
+@font-face {
+    font-family: 'Pacifico'; /*a name to be used later*/
+    src: url('../fonts/Pacifico.ttf'); /*URL to font*/
+}
+
 .text-muted {
     color: #777;
 }
