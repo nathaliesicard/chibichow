@@ -174,16 +174,17 @@ fieldset[disabled] .btn-xl.active {
     background-color: #222;
 }
 
+
 .navbar-default .navbar-brand {
-    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
-    color: #fed136;
+    font-family: "Pacifico","Helvetica Neue",Helvetica,Arial,cursive;
+    color: #ffffff;
 }
 
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-brand:active,
 .navbar-default .navbar-brand.active {
-    color: #fec503;
+    color: #ffffff;
 }
 
 .navbar-default .navbar-collapse {
@@ -220,8 +221,8 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-nav>.active>a {
     border-radius: 0;
-    color: #fff;
-    background-color: #fed136;
+    color: #000000;
+    background-color: #CEB69E;
 }
 
 .navbar-default .navbar-nav>.active>a:hover,
@@ -253,7 +254,7 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default.navbar-shrink {
         padding: 10px 0;
-        background-color: #222;
+        background-color: #CEB69E;
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
@@ -265,7 +266,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url(../img/header-bg.jpg);
+    background-image: url(../media/TMP_5770-Edit.jpg);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -846,12 +847,12 @@ ul.social-buttons li a:active {
 
 ::-moz-selection {
     text-shadow: none;
-    background: #fed136;
+    background: #ffffff;
 }
 
 ::selection {
     text-shadow: none;
-    background: #fed136;
+    background: #ffffff;
 }
 
 img::selection {
