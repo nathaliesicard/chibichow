@@ -1,10 +1,10 @@
 var koa = require('koa');
 var static = require('koa-static');
+var gzip = require('koa-gzip');
+
 var app = koa();
-
-
+app.use(gzip());
 app.use(static('public'));
-
 
 app.use(function *(){
     this.response.status = 404;

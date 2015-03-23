@@ -19,6 +19,7 @@
   "homepage": "https://github.com/nathaliesicard/chibichow",
   "dependencies": {
     "koa": "^0.18.1",
+    "koa-gzip": "^0.1.0",
     "koa-static": "^1.4.9"
   }
 }
