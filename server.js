@@ -57,7 +57,7 @@ app.post('/contact', function*() {
 
 app.use(function *(){
     this.response.status = 404;
-    this.body = 'File not found! Please go to chibichow.com and start again';
+    this.body = 'Lo sentimos, no se encontró el archivo. Por favor vuelve a chibichow.com y empieza de nuevo.';
 });
 
 
