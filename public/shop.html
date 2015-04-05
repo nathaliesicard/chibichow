@@ -31,9 +31,39 @@
         color: #ffffff;
         background-color: #CEB69E;
     }
-       </style>
-        <!-- Naths Custom CSS - trying to fix the horrible alignment of the buttons in the shop -->
 
+       </style>
+
+
+    <!-- Naths Custom CSS - making the columns the same height -->
+    <style>
+    .row2 {
+    display: table;
+        width: 100%;
+    }
+
+    .row2 [class*="col-"] {
+    float: none;
+    display: table-cell;
+    vertical-align: top;
+    }
+    </style>
+
+    <!-- Naths Custom CSS - trying to fix the horrible alignment of the buttons in the shop -->
+    <style>
+        .row-centered{
+            text-align: center;
+        }
+        .col-centered{
+            display: inline-block;
+            float: none;
+            margin: 0 auto;
+            background:lightGrey;
+            border-radius: 4px;
+            overflow:hidden;
+
+        }
+    </style>
     <!-- Custom Fonts -->
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
@@ -128,8 +158,9 @@
             </div>
 
                     <!-- Here I start -->
-
-                    <div class="container-fluid">
+            <div class="container-fluid">
+            <div class="row row-centered row2">
+                <div class="col-sm-4 col-centered">
 
                     <ul class="nav nav-pills nav-stacked pull-left" role="tablist" id="myTab">
                         <li role="presentation" class="active"><a href="#sampler" aria-controls="sampler" role="tab" data-toggle="tab">Sampler [desde $200]</a></li>
@@ -137,36 +168,30 @@
                         <li role="presentation"><a href="#21meals" aria-controls="21meals" role="tab" data-toggle="tab">21 porciones [$1,000]</a></li>
                         <li role="presentation"><a href="#42meals" aria-controls="42meals" role="tab" data-toggle="tab">42 porciones [$1,950]</a></li>
                     </ul>
+</div>
 
-
-
+                <div class="col-sm-4 col-centered">
                     <div class="tab-content">
-                        <div role="tabpanel" class="tab-pane fade in active" id="sampler">...
+                        <div role="tabpanel" class="tab-pane fade in active" id="sampler">Sampler options
 
                         </div>
                         <div role="tabpanel" class="tab-pane fade" id="6meals">
                             <!-- inside -->
-
-                            <ul class="nav nav-pills nav-stacked pull-left">
-                                <li role="presentation" class="active"><a href="#">Chocolate</a></li>
-                                <li role="presentation"><a href="#">Vainilla</a></li>
-                                <li role="presentation"><a href="#">Canela</a></li>
-                            </ul>
+...
                             <!-- finishes -->
                         </div>
-                        <div role="tabpanel" class="tab-pane fade" id="21meals">...</div>
-                        <div role="tabpanel" class="tab-pane fade" id="42meals">...</div>
-                    </div><br>
-                    <div class="container">
+                        <div role="tabpanel" class="tab-pane fade" id="21meals">21 meals options</div>
+                        <div role="tabpanel" class="tab-pane fade" id="42meals">42 meals options</div>
+                    </div></div></div></div><br>
+                    <div class="container-fluid">
+                    <div class="row">
                             <input type="submit" class="btn btn-xl center-block" value="Comprar"/>
-                        </div>
-
+                        </div></div></div>
 
                     <!-- Here I finish -->
 
-                </div>
-            </div>
 
+</
     </section>
 
     <footer>
