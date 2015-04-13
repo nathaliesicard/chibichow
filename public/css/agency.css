@@ -74,12 +74,12 @@ h6 {
 }
 
 .btn-primary {
-    border-color: #fed136;
+
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     color: #fff;
-    background-color: #fed136;
+
 }
 
 .btn-primary:hover,
@@ -87,16 +87,9 @@ h6 {
 .btn-primary:active,
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
-    border-color: #f6bf01;
     color: #fff;
-    background-color: #fec503;
 }
 
-.btn-primary:active,
-.btn-primary.active,
-.open .dropdown-toggle.btn-primary {
-    background-image: none;
-}
 
 .btn-primary.disabled,
 .btn-primary[disabled],
@@ -113,8 +106,7 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-    border-color: #fed136;
-    background-color: #fed136;
+
 }
 
 .btn-primary .badge {
