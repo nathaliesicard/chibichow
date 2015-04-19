@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "nodemon --harmony server.js",
     "start": "node --harmony server.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "blog": "jekyll build --source blog --destination public/blog --watch"
   },
   "repository": {
     "type": "git",

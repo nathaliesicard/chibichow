@@ -10,10 +10,19 @@ var app = koa();
 app.use(gzip());
 app.use(static('public'));
 
+app.use(router(app));
+
+app.get('/blog', function*(){
+    return this.response.redirect('/blog/index.html');
+});
+
 app.use(bodyParser());
 
 
-app.use(router(app));
+
+
+
+
 
 var transporter = nodemailer.createTransport(smtpTransport({
     port: 587,
