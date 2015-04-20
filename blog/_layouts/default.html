@@ -8,12 +8,19 @@
     {% include header.html %}
 
     <div class="page-content">
-      <div class="wrapper">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8">
+
         {{ content }}
           {% include comments.html %}
       </div>
+                <div class="col-md-4">
+          {% include sidebar.html %}
+      </div>
+      </div>
 
-    </div>
+    </div></div>
 
     {% include footer.html %}
     {% include google_analytics.html %}
