@@ -2,7 +2,7 @@
 layout: post
 title:  "NATS POST"
 date:   2015-04-19 09:02:10
-categories: jekyll update
+categories: chibichow
 comments: True
 ---
-Eric is a great teacher
+Eric is a noob
