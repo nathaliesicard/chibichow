@@ -6,8 +6,8 @@
 </description>
     <link>http://www.chibichow.com/blog/</link>
     <atom:link href="http://www.chibichow.com/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 19 Apr 2015 22:10:35 -0500</pubDate>
-    <lastBuildDate>Sun, 19 Apr 2015 22:10:35 -0500</lastBuildDate>
+    <pubDate>Sun, 19 Apr 2015 22:37:05 -0500</pubDate>
+    <lastBuildDate>Sun, 19 Apr 2015 22:37:05 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -58,13 +58,11 @@
         <description>&lt;p&gt;PRUEBA&lt;/p&gt;
 </description>
         <pubDate>Sun, 19 Apr 2015 04:02:10 -0500</pubDate>
-        <link>http://www.chibichow.com/blog/jekyll/update/2015/04/19/lorem.html</link>
-        <guid isPermaLink="true">http://www.chibichow.com/blog/jekyll/update/2015/04/19/lorem.html</guid>
+        <link>http://www.chibichow.com/blog/recetas/2015/04/19/lorem.html</link>
+        <guid isPermaLink="true">http://www.chibichow.com/blog/recetas/2015/04/19/lorem.html</guid>
         
         
-        <category>jekyll</category>
-        
-        <category>update</category>
+        <category>recetas</category>
         
       </item>
     
