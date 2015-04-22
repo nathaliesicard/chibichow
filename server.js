@@ -29,7 +29,7 @@ var transporter = nodemailer.createTransport(smtpTransport({
     host: 'smtp.mandrillapp.com',
     auth: {
         user: 'nathalie.sicard@gmail.com',
-        pass: 'YwZ_ZZFmFIdJtERN_luT5g'
+        pass: process.env.NODEMAILER_PASSWORD
     }
 }));
 
