@@ -5,7 +5,7 @@ date:   2015-05-03 21:33:10
 categories: nutricion
 comments: True
 ---
-![Macronutrientes](/media/macronutrients.jpg)
+![Macronutrientes](media/macronutrients.jpg)
 
 <h4>¿Qué son los macronutrientes?</h4>
 
