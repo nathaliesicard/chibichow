@@ -5,7 +5,7 @@ date:   2015-05-09 18:27:06
 categories: nutricion
 comments: True
 ---
-![Saciedad]({{ site.url }}/media/saciety.jpg)
+![Saciedad]({{ site.url }}/media/saciety1.jpg)
 
 Bajar de peso, teóricamente es muy simple: come menos calorías de las que gastas. ¿Porqué resulta tan difícil seguir una dieta y bajar de peso?
 
