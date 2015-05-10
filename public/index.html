@@ -18,6 +18,95 @@
     <!-- Custom CSS -->
     <link href="css/agency.css" rel="stylesheet">
 <link href="css/social_icons.css" rel="stylesheet">
+
+    <!-- Naths Custom CSS -colores -->
+
+    <style>
+        a {
+            color: black;
+        }
+
+        a:hover,
+        a:focus,
+        a:active,
+        a.active {
+            color: #fec503;
+        }
+
+        .nav > li > a:hover,
+        .nav > li > a:focus {
+            color: #fec503;
+            text-decoration: none;
+            background-color: transparent;
+        }
+
+        .nav-pills > li.active > a, .nav-pills > li.active > a:focus, .nav-pills > li.active > a:hover {
+            color: #ffffff;
+            background-color: #CEB69E;
+        }
+
+    </style>
+
+
+    <!-- Naths Custom CSS - making the columns the same height -->
+    <style>
+        .row2 {
+            display: inline-block;
+            width: 100%;
+        }
+
+        .row2 [class*="col-"] {
+            float: none;
+
+            vertical-align: top;
+
+        }
+    </style>
+
+    <!-- Naths Custom CSS - trying to fix the horrible alignment of the buttons in the shop -->
+    <style>
+        .row-centered {
+            text-align: center;
+            margin: 0 5px;
+
+        }
+
+        .col-centered {
+            display: inline-block;
+            float: none;
+            margin: 0 auto;
+            border-radius: 4px;
+            overflow: hidden;
+            background-color: transparent;
+            min-height: 280px;
+        }
+
+
+    </style>
+
+    <!-- Naths Custom CSS - space between buttons -->
+    <style>
+        .btn2 {
+            margin-top: 8px;
+            margin-bottom: 8px;
+            border-color: #CEB69E;
+            border-radius: 4px !important;
+        }
+
+        .btn-default:hover,
+        .btn-default:focus,
+        .btn-default.focus,
+        .btn-default:active,
+        .btn-default.active,
+        .open > .dropdown-toggle.btn-default {
+            color: #ffffff;
+            background-color: #CEB69E;
+            border-color: transparent;
+        }
+
+
+    </style>
+
     <!-- Custom Fonts -->
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
@@ -597,6 +686,58 @@
 
     <!-- jQuery -->
     <script src="js/jquery.js"></script>
+
+
+    <!-- Nath - Shop scripts -->
+    <script>
+        $(function () {
+            $('#myTab li:eq(1) a').tab('show');
+
+        });
+
+        var items = {
+            'sampler-mix': 587494,
+            '6meals-choc': 579212,
+            '6meals-van': 579214,
+            '6meals-can': 579217,
+            '21meals-choc': 579240,
+            '21meals-van': 579221,
+            '21meals-can': 579249,
+            '42meals-choc': 579250,
+            '42meals-van': 579227,
+            '42meals-can': 579260
+        };
+
+        $('#addToCart').click(function() {
+
+            var meals = $('#myTab li.active').attr('data-meals');
+            var flavor = $('.tab-content div.active label.active input').val();
+
+            var option = meals + '-' + flavor;
+
+            var id = items[option];
+
+            if (!id) {
+                alert('Couldnt find item! Please contact store owner :(');
+                throw new Error('no item');
+            }
+
+
+            $('#modalBody').html('<iframe src="https://www.kichink.com/checkout/add_item/?item='+id+'" width="100%" height="662" frameBorder="0" allowTransparency="true">The contents of this page cannot be displayed here because of your browser restrictions. Please navigate to <a href="https://www.kichink.com/checkout/add_item/?item='+id+'">this page</a></iframe>');
+
+            $('#myModal').modal('show');
+        });
+
+        $('#buyNow').click(function() {
+            var store_id = 34484;
+            $('#modalBody').html('<iframe src="https://www.kichink.com/checkout/display/?store='+store_id+'" width="100%" height="662" frameBorder="0" allowTransparency="true">The contents of this page cannot be displayed here because of your browser restrictions. Please navigate to <a href="https://www.kichink.com/checkout/display/?store='+store_id+'">this page</a></iframe>');
+            $('#myModal').modal('show');
+        });
+
+
+
+    </script>
+
 
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>
