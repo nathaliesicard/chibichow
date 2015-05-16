@@ -37,6 +37,8 @@ Por supuesto hay que considerar el tipo de sopa / ensalada, ya que si se trata d
 
 Para controlar el apetito, tus grandes aliados son las frutas y verduras, ya que tienen un mayor contenido de agua, lo que te permite consumir una porción grande con un menor contenido calórico. Controlar la densidad calórica de los alimentos es uno de los trucos para controlar el apetito y perder peso. Dentro de tu dieta incluye frutas y verduras, no sólo entre comidas, sino también dentro de las comidas.
 
+![Mas volumen menos calorias]({{ site.url }}/media/bulk.jpg)
+
 <h4>El poder de la fibra</h4>
 
 La fibra, un tipo de carbohidrato, es un gran aliado para mantener el sentido de saciedad. La fibra no se digiere  y se mantiene en tu estómago por más tiempo que otros alimentos, lo que permite sentirte lleno.
