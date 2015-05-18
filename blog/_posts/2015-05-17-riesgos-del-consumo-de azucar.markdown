@@ -29,7 +29,7 @@ Diabetes es el siguiente paso después de la resistencia a la insulina. Al detec
 
 Se ha determinado que aquellos que ingieren bebidas con alto contenido de azúcares tienen un riesgo de +83% de padecer diabetes.
 
-![Refrescos tienen alto contenido de azucares]({{ site.url }}/media/softdrink.jpg)
+![Refrescos tienen alto contenido de azucares]({{ site.url }}/media/soft_drink.jpg)
 
 
 <h4>Riesgo de cáncer</h4>
