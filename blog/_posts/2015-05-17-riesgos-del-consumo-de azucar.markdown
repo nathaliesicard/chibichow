@@ -5,7 +5,7 @@ date:   2015-05-17 20:59:10
 categories: nutricion
 comments: True
 ---
-![Azucar cupcakes]({{ site.url }}/media/cupcakes.jpg)
+![Azucar cupcakes]({{ site.url }}/media/cupcakes1.jpg)
 
 Globalmente, en los últimos años, los seres humanos hemos incrementado el consumo de azúcar añadida en nuestra dieta, provocando esto diversos estragos en nuestra salud.
 
@@ -29,7 +29,7 @@ Diabetes es el siguiente paso después de la resistencia a la insulina. Al detec
 
 Se ha determinado que aquellos que ingieren bebidas con alto contenido de azúcares tienen un riesgo de +83% de padecer diabetes.
 
-![Refrescos tienen alto contenido de azucares]({{ site.url }}/media/soft_drink.jpg)
+![Refrescos tienen alto contenido de azucares]({{ site.url }}/media/soft_drink1.jpg)
 
 
 <h4>Riesgo de cáncer</h4>
@@ -48,7 +48,7 @@ La afectación es aún mayor para las personas con una vida sedentaria, sin acti
 
 <h4>Obesidad y sobrepeso</h4>
 
-![Sobrepeso]({{ site.url }}/media/scale.jpg)
+![Sobrepeso]({{ site.url }}/media/scale1.jpg)
 
 Se ha comprobado que la fructosa tiene poco efecto en las hormonas encargadas de regular el apetito (en especial la grelina), provocando una mayor ingesta de calorías aunque nuestro cuerpo no lo requiera.
 
@@ -62,7 +62,7 @@ La fructosa puede incrementar el nivel de triglicéridos y colesterol LDL en tan
 
 <h4>Es adictiva</h4>
 
-![Cafe latte endulzado con alto contenido en azucar]({{ site.url }}/media/latte.jpg)
+![Cafe latte endulzado con alto contenido en azucar]({{ site.url }}/media/latte1.jpg)
 
 Adicional a ello, su consumo es adictivo. Al consumirla, se produce una descarga de dopamina en el cerebro, lo que causa adicción. Para algunas personas el consumirla “moderadamente” no es una opción, pues no podrán controlar la ingesta y terminarán consumiendo más de la que es saludable. Para estas personas es mejor abstenerse de consumir azúcar.
 
@@ -76,7 +76,7 @@ El azúcar favorece el crecimiento de caries que dañan a tus dientes.
 
 El azúcar añadida son calorías vacías, que no contienen ningún otro nutriente más que calorías. Se estima que una persona promedio actualmente ingiere 88 gramos de azúcares añadidas, lo que representa 350kcal más a su dieta diaria.
 
-![Dulces, sin contenido nutrimental real]({{ site.url }}/media/gummy.jpg)
+![Dulces, sin contenido nutrimental real]({{ site.url }}/media/gummy1.jpg)
 
 
 <h4>¿Cuál es la ingesta diaria recomendada de azúcares?</h4>
