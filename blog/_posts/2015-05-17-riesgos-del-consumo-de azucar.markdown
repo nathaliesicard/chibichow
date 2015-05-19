@@ -88,19 +88,19 @@ Para poner esto en perspectiva, un refresco de 600ml de cualquier marca contiene
 
 <h5>Referencias</h5>
 <ul>
- <li>•	World Health Organization. “WHO calls on countries to reduce sugars intake among adults and children”. 4 MARCH 2015.  <a href="http://www.who.int/mediacentre/news/releases/2015/sugar-guideline/en/">http://goo.gl/YGnbLr</a>
+ <li>World Health Organization. “WHO calls on countries to reduce sugars intake among adults and children”. 4 MARCH 2015.  <a href="http://www.who.int/mediacentre/news/releases/2015/sugar-guideline/en/">http://goo.gl/YGnbLr</a>
 </li>
- <li>•	Colantuoni C. US National Library of MedicineNational Institutes of Health. “Excessive sugar intake alters binding to dopamine and mu-opioid receptors in the brain”. 2001 Nov 16;12(16):3549-52.<a href="http://www.ncbi.nlm.nih.gov/pubmed/11733709/">http://goo.gl/oKdgKk</a>
+ <li>Colantuoni C. US National Library of MedicineNational Institutes of Health. “Excessive sugar intake alters binding to dopamine and mu-opioid receptors in the brain”. 2001 Nov 16;12(16):3549-52.<a href="http://www.ncbi.nlm.nih.gov/pubmed/11733709/">http://goo.gl/oKdgKk</a>
 </li>
- <li>•	Harvad T.H. Chan. School of Public Health. “Added sugar in diet”. <a href="http://www.hsph.harvard.edu/nutritionsource/carbohydrates/added-sugar-in-the-diet/">http://goo.gl/qmGmeX</a>
+ <li>Harvad T.H. Chan. School of Public Health. “Added sugar in diet”. <a href="http://www.hsph.harvard.edu/nutritionsource/carbohydrates/added-sugar-in-the-diet/">http://goo.gl/qmGmeX</a>
 </li>
- <li>•	Matthias B. Schulze, DrPH; JoAnn E. Manson, MD; David S. Ludwig, MD; Graham A. Colditz, MD; Meir J. Stampfer, MD; Walter C. Willett, MD; Frank B. Hu, MD. The Journal of the American Medical Association. “Sugar-Sweetened Beverages, Weight Gain, and Incidence of Type 2 Diabetes in Young and Middle-Aged Women”. August 25, 2004. <a href="http://jama.jamanetwork.com/article.aspx?articleid=199317">http://goo.gl/4lkZb5</a>
+ <li>Matthias B. Schulze, DrPH; JoAnn E. Manson, MD; David S. Ludwig, MD; Graham A. Colditz, MD; Meir J. Stampfer, MD; Walter C. Willett, MD; Frank B. Hu, MD. The Journal of the American Medical Association. “Sugar-Sweetened Beverages, Weight Gain, and Incidence of Type 2 Diabetes in Young and Middle-Aged Women”. August 25, 2004. <a href="http://jama.jamanetwork.com/article.aspx?articleid=199317">http://goo.gl/4lkZb5</a>
 </li>
- <li>•	Sanjay Basu, Paula Yoffe , Nancy Hills , Robert H. Lustig.  PLOS One. “The Relationship of Sugar to Population-Level Diabetes Prevalence: An Econometric Analysis of Repeated CrossSectional Data” February 2013.  <a href="http://www.medpagetoday.com/upload/2013/3/1/journal.pone.0057873.pdf">http://goo.gl/ycBsw8</a>
+ <li>Sanjay Basu, Paula Yoffe , Nancy Hills , Robert H. Lustig.  PLOS One. “The Relationship of Sugar to Population-Level Diabetes Prevalence: An Econometric Analysis of Repeated CrossSectional Data” February 2013.  <a href="http://www.medpagetoday.com/upload/2013/3/1/journal.pone.0057873.pdf">http://goo.gl/ycBsw8</a>
 </li>
- <li>•	Picower Institute for Learning and Memory. MIT News. “Decoding sugar addiction”. January 29, 2015. <a href="http://newsoffice.mit.edu/2015/decoding-sugar-addiction-0129">http://goo.gl/XL9idX</a>
+ <li>Picower Institute for Learning and Memory. MIT News. “Decoding sugar addiction”. January 29, 2015. <a href="http://newsoffice.mit.edu/2015/decoding-sugar-addiction-0129">http://goo.gl/XL9idX</a>
 </li>
- <li>•	Kris Gunnars. “10 Disturbing Reasons Why Sugar is Bad For You”. <a href="http://authoritynutrition.com/10-disturbing-reasons-why-sugar-is-bad/">http://goo.gl/3c9LBf</a>
+ <li>Kris Gunnars. “10 Disturbing Reasons Why Sugar is Bad For You”. <a href="http://authoritynutrition.com/10-disturbing-reasons-why-sugar-is-bad/">http://goo.gl/3c9LBf</a>
 </li>
 </ul>
 
