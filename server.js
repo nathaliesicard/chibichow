@@ -1,7 +1,7 @@
 var koa = require('koa');
 var static = require('koa-static');
 var gzip = require('koa-gzip');
-var router = require('koa-router');
+var router = require('koa-router')();
 var bodyParser = require('koa-body-parser');
 var nodemailer = require('nodemailer');
 var smtpTransport = require('nodemailer-smtp-transport');
@@ -9,19 +9,11 @@ var smtpTransport = require('nodemailer-smtp-transport');
 var app = koa();
 app.use(gzip());
 app.use(static('public'));
-
-app.use(router(app));
-
-app.get('/blog', function*(){
-    return this.response.redirect('/blog/index.html');
-});
-
 app.use(bodyParser());
 
-
-
-
-
+router.get('/blog', function*(){
+    return this.response.redirect('/blog/index.html');
+});
 
 
 var transporter = nodemailer.createTransport(smtpTransport({
@@ -54,7 +46,7 @@ function sendEmail(text) {
     });
 }
 
-app.post('/contact', function*() {
+router.post('/contact', function*() {
     console.log('Contact us form was run!', this.request.body);
 
     yield sendEmail('A contact us was submitted with: ' + JSON.stringify(this.request.body));
@@ -62,6 +54,8 @@ app.post('/contact', function*() {
 
     this.body = 'Tu mensaje ha sido enviado. Gracias!';
 });
+
+app.use(router.routes());
 
 
 app.use(function *(){
