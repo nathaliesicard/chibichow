@@ -55,7 +55,7 @@ function sendEmail(text) {
 }
 
 app.post('/contact', function*() {
-    console.log('Contact us form was run!', this.request.body.name);
+    console.log('Contact us form was run!', this.request.body);
 
     yield sendEmail('A contact us was submitted with: ' + JSON.stringify(this.request.body));
 
