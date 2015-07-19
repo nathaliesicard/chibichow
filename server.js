@@ -31,7 +31,7 @@ function sendEmail(text) {
     return new Promise(function(resolve, reject) {
         transporter.sendMail({
             from: 'contact@chibichow.com', // sender address
-            to: 'nathalie.sicard@gmail.com', // list of receivers
+            to: 'contacto@chibichow.com', // list of receivers
             subject: 'ChibiChow Contact Us',
             text: text
         }, function (error, info) {
