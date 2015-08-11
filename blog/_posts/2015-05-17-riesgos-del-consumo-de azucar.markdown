@@ -81,7 +81,7 @@ El azúcar añadida son calorías vacías, que no contienen ningún otro nutrien
 
 <h4>¿Cuál es la ingesta diaria recomendada de azúcares?</h4>
 
-Actualmente la Organización Mundial de la Salud recomienda reducir la ingesta de azúcares añadidas a menos del 10% del consumo calórico diario, es decir, aproximadamente 25 gramos por día.
+Actualmente la <a href="http://www.who.int/nutrition/publications/guidelines/sugars_intake/es/">Organización Mundial de la Salud recomienda</a> reducir la ingesta de azúcares añadidas a menos del 10% del consumo calórico diario, es decir, aproximadamente 25 gramos por día. Incluso se obtendrían más beneficios de consumir menos del 5%.
 
 Para poner esto en perspectiva, un refresco de 600ml de cualquier marca contiene en promedio más de 60 gramos de azúcar!
 
