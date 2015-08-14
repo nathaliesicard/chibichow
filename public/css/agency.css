@@ -245,7 +245,13 @@ fieldset[disabled] .btn-xl.active {
         -moz-transition: all .3s;
         transition: all .3s;
     }
-
+/*make the logo bigger smoothly*/
+    .navbar-default img {
+        -webkit-transition: all .3s;
+        -moz-transition: all .3s;
+        transition: all .3s;
+    }
+/*end*/
     .navbar-default .navbar-nav>.active>a {
         border-radius: 3px;
     }
@@ -256,8 +262,9 @@ fieldset[disabled] .btn-xl.active {
     }
 
     .navbar-shrink img {
-
-        transition: all .2s ease-in-out;
+        -webkit-transition: all .3s;
+        -moz-transition: all .3s;
+        transition: all .3s ease-in-out;
         transform:scale(.65);
     }
 
