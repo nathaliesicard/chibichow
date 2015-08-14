@@ -1,35 +1,7 @@
 /* ----------------------------------------------------------------
 	Logo
 -----------------------------------------------------------------*/
-
-
-#logo {
-    position: relative;
-    float: left;
-    font-family: 'Raleway', sans-serif;
-    font-size: 36px;
-    line-height: 100%;
-    margin-right: 40px;
+#logo-container img {
+    width: 45%;
+    height: auto;
 }
-
-#header.full-header #logo {
-    padding-right: 30px;
-    margin-right: 30px;
-    border-right: 1px solid #EEE;
-}
-
-#header.transparent-header.full-header #logo { border-right-color: rgba(0,0,0,0.1); }
-
-#logo a {
-    display: block;
-    color: #000;
-}
-
-#logo img {
-    display: block;
-    max-width: 100%;
-}
-
-#logo a.standard-logo { display: block; }
-
-#logo a.retina-logo { display: none; }
