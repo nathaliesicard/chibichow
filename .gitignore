@@ -2,3 +2,9 @@ node_modules/
 .idea/
 npm-debug.log
 .sass-cache
+index (Original).html
+blog(UNUSED).html
+FAQ.html
+navbar_clean(UNUSED).html
+post(UNUSED).html
+shop.html
